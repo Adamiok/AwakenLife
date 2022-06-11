@@ -1,0 +1,16 @@
+name: AwakenLife
+version: '${project.version}'
+main: me.adamiok.awakenlife.AwakenLife
+api-version: 1.18
+authors: [ Adamiok ]
+description: The awaken SMP plugin but you also lose heart on natural death.
+website: https://github.com/Adamiok
+#
+# Commands
+commands:
+  awaken:
+    description: A command to manage all awaken data (heads)
+    usage: /<command> help
+  life:
+    description: A command to manage all life data (hearts)
+    usage: /<command> help

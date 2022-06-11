@@ -1,0 +1,52 @@
+##################################################
+#        Awaken-Life Configuration              #
+#                                              #
+#   Discord: https://discord.gg/k8UpZsbMHN    #
+#         Github: INSERT LINK HERE           #
+#############################################
+
+# For any suggestions/queries please contact us on discord
+
+####### Awaken Configuration #######
+
+# Enable awaken section, if disabled no heads will be dropped
+# DISABLE ONLY ON NEW WORLDS, OTHERWISE PLAYERS COULD PLACE HEADS
+# Default value: true
+enable-awaken: true
+
+# Enable crafting of heads
+# Default value: false
+enable-head-crafting: false
+
+# Allow transfer of heads between players using /transfer, they have to be close to the target player
+# Default value: true
+allow-transfer-heads: true
+
+# Make players have heads in their inventory only, prevents them from moving it into chests, dropping it, makes heads invulnerable
+# Default value: true
+force-heads-in-inventory: true
+
+####### Life Configuration #######
+
+# Enable life section, if disabled no hearts will be lost.
+# DISABLE ONLY ON NEW WORLDS, OTHERWISE PLAYERS COULD PLACE HEARTS AND HEARTS REVIVE STONES
+# Default value: true
+enable-life: true
+
+# Enable crafting of hearts, highly recommended. There is no other way to get hearts back
+# Default value: true
+enable-hearts-crafting: true
+
+# Maximum number of hearts a player can have
+# Default value: 20
+max-hearts: 20
+
+# Enable crafting of heart revive stones. Used to revive players who lost all their hearts
+# Default value: true
+enable-heart-stones-crafting: true
+
+####### Advanced Settings #######
+# Do not change unless you are instructed by the support team, or you know exactly what you are doing
+
+# Do not change or config will reset
+config-version: 1.0
