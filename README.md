@@ -25,7 +25,8 @@ However, if you die to a natural cause (a player's name is <strong>NOT</strong> 
 </ul>
 
 <h2>Installation:</h2>
-1. Install a server, either from <a href=""https://www.spigotmc.org/wiki/buildtools/>Build Tools</a> or from <a href=https://papermc.io/downloads>Paper</a>
-2. Lanch the server and then stop it
-3. Download this plugin from <a href="https://spigotmc.com">spigot</a> or from a release on this github
-4. Put this plugin into the plugins folder
+<ol>
+  <li>Install a server, either from <a href=""https://www.spigotmc.org/wiki/buildtools/>Build Tools</a> or from <a href=https://papermc.io/downloads>Paper</a></li>
+  <li>Lanch the server and then stop it</li>
+  <li>Download this plugin from <a href="https://spigotmc.com">spigot</a> or from a release on this github</li>
+  <li>Put this plugin into the plugins folder</li>
