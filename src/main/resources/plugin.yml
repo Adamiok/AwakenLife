@@ -4,8 +4,8 @@ main: me.adamiok.awakenlife.AwakenLife
 api-version: 1.18
 authors: [ Adamiok ]
 description: The awaken SMP plugin but you also lose heart on natural death.
-website: https://github.com/Adamiok
-#
+website: https://github.com/Adamiok/AwakenLife
+
 # Commands
 commands:
   awaken:
