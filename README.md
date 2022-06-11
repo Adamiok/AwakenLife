@@ -18,8 +18,11 @@ However, if you die to a natural cause (a player's name is <strong>NOT</strong> 
 </ul>
 
 <h2>Requirments:</h2>
-* Spigot (tested only on 1.16, 1.17, 1.18), however should work on other versions above 1.12
-* Paper tested!
+<ul>
+  <li>Spigot (tested only on 1.16, 1.17, 1.18), however should work on other versions above 1.12</li>
+  <li>Paper tested (not required)!</li>
+  <li>A machine to run the server on or a hosting provider</li>
+</ul>
 
 <h2>Installation:</h2>
 1. Install a server, either from <a href=""https://www.spigotmc.org/wiki/buildtools/>Build Tools</a> or from <a href=https://papermc.io/downloads>Paper</a>
