@@ -23,7 +23,7 @@ public class LifeItems {
         ItemMeta meta = item.getItemMeta();
         List<String> lore = new ArrayList<>();
         lore.add(ChatColor.DARK_PURPLE + "Adds you a heart");
-        lore.add(ChatColor.DARK_PURPLE + "You can have a max of 10 hearts");
+        lore.add(ChatColor.DARK_PURPLE + "Right click on a block to apply");
         meta.setLore(lore);
         meta.setDisplayName(ChatColor.LIGHT_PURPLE + "Heart");
         item.setItemMeta(meta);
