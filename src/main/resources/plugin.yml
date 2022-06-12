@@ -3,7 +3,7 @@ version: '${project.version}'
 main: me.adamiok.awakenlife.AwakenLife
 api-version: 1.18
 authors: [ Adamiok ]
-description: The awaken SMP plugin but you also lose heart on natural death.
+description: A merge of the popular Awaken and Life Steal
 website: https://github.com/Adamiok/AwakenLife
 
 # Commands
